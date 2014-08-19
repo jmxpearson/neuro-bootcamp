@@ -67,7 +67,7 @@ But look, we're scientists, not programmers. We don't quite have the same sets o
     + it should be easy to modify
 - __We have to code defensively__
 
-## Why you will be glad you did
+## Why you'll be glad you did
 
 - You will be able to add or remove a single data file/point and instantly re-run all your analyses.
 - You will know **exactly** how you normalized the data to produce Figure 2.
