@@ -43,7 +43,7 @@ A(2, 2)
 A(3)
 A(5)
 
-%% slicing
+%% slicing/indexing
 A(:, 1)
 A(2, :)
 A(:, :)
