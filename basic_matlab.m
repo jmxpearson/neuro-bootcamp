@@ -35,3 +35,26 @@ vec * [ 1 1 7 8 ]'
 
 A * B
 B * A
+
+%% getting data from arrays
+A
+A(1, 2)
+A(2, 2)
+A(3)
+A(5)
+
+%% slicing
+A(:, 1)
+A(2, :)
+A(:, :)
+A(:)
+A(:, end)
+A(end)
+A(end - 1, :)
+
+%% sequences
+1:10
+1:2:10
+10:-2:-5
+
+B(1:2:end, :)
