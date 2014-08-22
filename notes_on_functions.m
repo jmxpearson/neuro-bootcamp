@@ -22,3 +22,12 @@ end
 % think of function as a "clean room" named variables passed in through
 % slots (parameters), passed out through outputs
 % everything else stays inside (scope!)
+
+% exercise -- turn our psth code into a function
+% can we turn it into smaller functions? why would we want to do this?
+%  - reuse those functions in other functions
+%  - swap those pieces out with something better later on
+
+% advanced exercises: work through getting_started_spikes and
+% getting_started_lfp
+% look at code for functions called
