@@ -7,8 +7,8 @@ load sample_events
 whos
 %% check some data
 sr
-numel(lfp) / sr
-numel(lfp) / (sr * 60)
+length(lfp) / sr
+length(lfp) / (sr * 60)
 
 mean(lfp)
 median(lfp)
